@@ -1,5 +1,5 @@
-# Food Orders Generator Android Application
-An Android application that displays a dynamically-oriented random-generated food order based on the user's input of number of items and toppings to order.
+# Food Orders Generator Kotlin Application
+A Kotlin application that displays a dynamically-oriented random-generated food order based on the user's input of number of items and toppings to order.
 
 ## Prerequisites
 * An Android environment
