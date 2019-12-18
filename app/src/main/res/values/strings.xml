@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodOrders</string>
+    <string name="num_items_str">Number of items:</string>
+    <string name="num_toppings_str">Number of toppings:</string>
+    <string name="food_type_str">Type of food:</string>
+    <string name="generate_str">Generate</string>
+    <string-array name="foods">
+        <item>Choose food type</item>
+        <item>Pizza</item>
+        <item>Sushi</item>
+    </string-array>
+</resources>
